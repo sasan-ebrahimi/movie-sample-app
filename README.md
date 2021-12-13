@@ -7,6 +7,6 @@ This is a simple Android project written in kotlin to show how an infinite list 
 
 ## Architecture
 
-<img src="https://raw.githubusercontent.com/sasan-ebrahimi/movie-sample-app/main/preview/arch.png" width="300">
+<img src="https://raw.githubusercontent.com/sasan-ebrahimi/movie-sample-app/main/preview/arch.png" width="700">
 
  
