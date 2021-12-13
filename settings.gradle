@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MovieSample"
 include ':app'
-include ':db'
 include ':db:lib'
 include ':repository'
 include ':restapi'
+include ':common'
